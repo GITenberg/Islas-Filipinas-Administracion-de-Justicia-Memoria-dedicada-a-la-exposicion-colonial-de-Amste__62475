@@ -1,0 +1,29 @@
+_repo: Islas-Filipinas-Administracion-de-Justicia-Memoria-dedicada-a-la-exposicion-colonial-de-Amste__62475
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villarragut y Estevan, Carlos
+    aliases:
+    - Estevan, Carl Villarragut y
+    - Estevan, Carlos Villarragut y
+    gutenberg_agent_id: '51960'
+    url: http://www.gutenberg.org/2009/agents/51960
+description: ''
+gutenberg_issued: '2020-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62475'
+  lccn: '10007367'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Politics and government -- 1521-1898'
+- !lcc 'JQ'
+- !lcsh 'Justice, Administration of -- Philippines'
+- GITenberg
+title: 'Islas Filipinas - Administracion de Justicia
+
+  Memoria dedicada á la exposicion colonial de Amsterdam'
+url: http://www.gutenberg.org/ebooks/62475
